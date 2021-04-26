@@ -1,0 +1,29 @@
+{
+  "culture": "es",
+  "texts": {
+    "Menu:Home": "Inicio",
+    "Welcome": "Bienvenido",
+    "LongWelcomeMessage": "Bienvenido a la aplicación, este es un proyecto base basado en el framework ABP. Para más información, visita abp.io.",
+    "Permission:Sale": "Sale",
+    "Permission:Create": "Create",
+    "Permission:Update": "Update",
+    "Permission:Delete": "Delete",
+    "Menu:Sale": "MenuSale",
+    "Sale": "Sale",
+    "SaleSubtotal": "SaleSubtotal",
+    "CreateSale": "CreateSale",
+    "EditSale": "EditSale",
+    "SaleDeletionConfirmationMessage": "Are you sure to delete the sale {0}?",
+    "SuccessfullyDeleted": "Successfully deleted",
+    "Permission:SaleDetail": "SaleDetail",
+    "Menu:SaleDetail": "MenuSaleDetail",
+    "SaleDetail": "SaleDetail",
+    "SaleDetailSaleId": "SaleDetailSaleId",
+    "SaleDetailTotal": "SaleDetailTotal",
+    "SaleDetailCount": "SaleDetailCount",
+    "SaleDetailUnitPrice": "SaleDetailUnitPrice",
+    "CreateSaleDetail": "CreateSaleDetail",
+    "EditSaleDetail": "EditSaleDetail",
+    "SaleDetailDeletionConfirmationMessage": "Are you sure to delete the saleDetail {0}?"
+  }
+}

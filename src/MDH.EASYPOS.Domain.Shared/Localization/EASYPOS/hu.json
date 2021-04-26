@@ -1,0 +1,29 @@
+{
+  "culture": "hu",
+  "texts": {
+    "Menu:Home": "Kezdőlap",
+    "Welcome": "Üdvözlöm",
+    "LongWelcomeMessage": "Üdvözöljük az alkalmazásban. Ez egy ABP keretrendszeren alapuló startup projekt. További információkért látogasson el az abp.io oldalra.",
+    "Permission:Sale": "Sale",
+    "Permission:Create": "Create",
+    "Permission:Update": "Update",
+    "Permission:Delete": "Delete",
+    "Menu:Sale": "MenuSale",
+    "Sale": "Sale",
+    "SaleSubtotal": "SaleSubtotal",
+    "CreateSale": "CreateSale",
+    "EditSale": "EditSale",
+    "SaleDeletionConfirmationMessage": "Are you sure to delete the sale {0}?",
+    "SuccessfullyDeleted": "Successfully deleted",
+    "Permission:SaleDetail": "SaleDetail",
+    "Menu:SaleDetail": "MenuSaleDetail",
+    "SaleDetail": "SaleDetail",
+    "SaleDetailSaleId": "SaleDetailSaleId",
+    "SaleDetailTotal": "SaleDetailTotal",
+    "SaleDetailCount": "SaleDetailCount",
+    "SaleDetailUnitPrice": "SaleDetailUnitPrice",
+    "CreateSaleDetail": "CreateSaleDetail",
+    "EditSaleDetail": "EditSaleDetail",
+    "SaleDetailDeletionConfirmationMessage": "Are you sure to delete the saleDetail {0}?"
+  }
+}
